@@ -24,7 +24,7 @@ npx json-server db.json --port 3001
 <img src="./src/assets/image1.png" height=400, width=450 style="border: 1px solid #555; "  />
 
 <br/>
-<img src="./src/assets/image2.png" height=400, width=450  style="border: 1px solid #555; "  />
+<img src="./src/assets/image2.png" height=400, width=500  style="border: 1px solid #555; "  />
 
 <br/>
 <img src="./src/assets/image3.png" height=300, width=500  style="border: 1px solid #555; "  />
